@@ -50,3 +50,12 @@ macos/build/
 # Windows
 windows/flutter/
 windows/build/
+
+# Firebase config files
+android/app/google-services.json
+ios/Runner/GoogleService-Info.plist
+macos/Runner/GoogleService-Info.plist
+
+# Firebase CLI files
+.firebase/
+.firebaserc
